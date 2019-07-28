@@ -1,0 +1,27 @@
+{
+  "name": "nearest_customer",
+  "version": "1.0.0",
+  "description": "nearest customer persons from a list of GPS coordinates",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anshulmittal7/nearest_customer.git"
+  },
+  "keywords": [
+    "node",
+    "GPS"
+  ],
+  "author": "Anshul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anshulmittal7/nearest_customer/issues"
+  },
+  "homepage": "https://github.com/anshulmittal7/nearest_customer#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
