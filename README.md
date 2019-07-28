@@ -1,2 +1,2 @@
-# nearest_hundred
-Solution to get GPS coordinates which are in 100 km radius
+# nearest_customer
+Solution to get customers whose GPS coordinates are in specified km radius
