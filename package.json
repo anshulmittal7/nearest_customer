@@ -1,6 +1,6 @@
 {
   "name": "nearest_customer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "nearest customer persons from a list of GPS coordinates",
   "main": "src/index.js",
   "scripts": {

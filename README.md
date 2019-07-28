@@ -5,11 +5,11 @@ Solution to get customers whose GPS coordinates are in specified km radius.
 
 ## Installation
 
-  `npm install @anshul7/nearest_customer`
+  `npm i nearest_customer`
 
 ## Usage
 
-    var nearestCustomer = require('@anshul7/nearest_customer');
+    var nearestCustomer = require('nearest_customer');
     var nearestCustomerList = nearestCustomer(53.339428, -6.257664, 100);
   
 ## Output
